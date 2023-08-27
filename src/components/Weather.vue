@@ -60,7 +60,7 @@
       methods: {
         changeLocation() {
             window.location.reload() ;
-        }
+        } 
       },
       data() {
         return {
